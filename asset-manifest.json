@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hm01-friends/static/css/main.31d6cfe0.css",
+    "main.js": "/hm01-friends/static/js/main.29d7fbd5.js",
+    "static/js/453.18097678.chunk.js": "/hm01-friends/static/js/453.18097678.chunk.js",
+    "index.html": "/hm01-friends/index.html",
+    "main.29d7fbd5.js.map": "/hm01-friends/static/js/main.29d7fbd5.js.map",
+    "453.18097678.chunk.js.map": "/hm01-friends/static/js/453.18097678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.29d7fbd5.js"
+  ]
+}
