@@ -1,1 +1,0 @@
-# hm05-receipts
