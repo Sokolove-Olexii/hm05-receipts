@@ -1,7 +1,7 @@
 {
   "name": "hm05-receipts",
   "version": "0.1.0",
-  "homepage": "https://Sokolove-Olexii.github.io/hm01-friends",
+  "homepage": "https://Sokolove-Olexii.github.io/hm05-receipts",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
